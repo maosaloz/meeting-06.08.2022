@@ -1,3 +1,10 @@
+# CORRECTIONS 
+# 1. must add a dataset that includes all migrants not just forced migrants 
+# 2. Don't filter the dataset, make sure to keep those even that are not participating in the labor force
+# 3. organize code well so that we can look at it step by step 
+
+
+
 
 ### Import Datasets ###
 
